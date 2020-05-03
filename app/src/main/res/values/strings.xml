@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kamus Jaringan</string>
+    <string name="kamus_istilah_jaringan_komputer_dan_internet">KAMUS ISTILAH\nJARINGAN\nKOMPUTER\nDAN\nINTERNET</string>
+    <string name="keluar">Keluar</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kamus">Kamus</string>
+    <string name="data_kata">Data Kata</string>
+    <string name="kembali_ke_menu_utama">Kembali ke menu utama</string>
+    <string name="versi_1_0">Versi 1.0</string>
+    <string name="email">email pembuat aplikasi</string>
+    <string name="kamus_istilah">Kamus Istilah</string>
+    <string name="kata">Kata</string>
+    <string name="hasil_pencarian">Hasil Pencarian</string>
+    <string name="tambah_kata">Tambah Kata</string>
+    <string name="ubah_kata">Ubah Kata</string>
+    <string name="cari">Cari</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
